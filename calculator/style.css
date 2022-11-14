@@ -31,6 +31,7 @@ footer{
     font-size: 2rem;
     border-radius: 0.5rem;
     text-align: right;
+    outline: none;
 }
 
 .btn{
@@ -40,6 +41,7 @@ footer{
     border: none;
     border-radius: 0.5rem;
     background-color: #C539B4;
+    outline: none;
 }
 
 .clr{
@@ -49,6 +51,7 @@ footer{
     border: none;
     border-radius: 0.5rem;
     background-color: #852999;
+    outline: none;
 }
 
 .lst-row{
