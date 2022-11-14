@@ -1,0 +1,56 @@
+html{
+    height: 100%;
+    background-color: #F5D5AE;
+    
+}
+
+.container{
+    margin-top: 8%;
+    height: 25rem;
+    text-align: center;
+    font-family: 'indie flower', cursive;
+    color: #C539B4;
+}
+
+footer{
+    font-family: 'lobster', cursive;
+    
+}
+
+.tbl{
+    margin: auto;
+    height: 100%;
+    width: 350px;
+}
+
+.display{
+    height: 4rem;
+    width: 98%;
+    background-color: #EF9A53;
+    border: none;
+    font-size: 2rem;
+    border-radius: 0.5rem;
+    text-align: right;
+}
+
+.btn{
+    color: white;
+    height: 100%;
+    width: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #C539B4;
+}
+
+.clr{
+    color: white;
+    height: 4rem;
+    width: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #852999;
+}
+
+.lst-row{
+    width: 52px;
+}
